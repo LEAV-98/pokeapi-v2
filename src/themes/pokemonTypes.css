@@ -1,0 +1,54 @@
+.acero {
+  background-color: rgb(153, 153, 152);
+}
+.agua {
+  background-color: rgb(58, 173, 240);
+}
+.bicho {
+  background-color: rgb(142, 238, 64);
+}
+.dragon {
+  background-color: rgb(86, 86, 248);
+}
+.electrico {
+  background-color: rgb(255, 255, 0);
+}
+.fanstasma {
+  background-color: rgb(39, 39, 37);
+}
+.fuego {
+  background-color: rgb(184, 5, 5);
+}
+.hada {
+  background-color: rgb(240, 133, 151);
+}
+.hielo {
+  background-color: rgb(125, 210, 243);
+}
+.lucha {
+  background-color: rgb(241, 142, 28);
+}
+.normal {
+  background-color: rgb(167, 167, 167);
+}
+.planta {
+  background-color: rgb(0, 255, 106);
+}
+.psiquico {
+  background-color: rgb(159, 73, 240);
+}
+.roca {
+  background-color: rgb(226, 70, 70);
+}
+.siniestro {
+  background-color: rgb(0, 0, 0);
+}
+.tierra {
+  background-color: rgb(185, 70, 70);
+}
+.veneno {
+  background-color: rgb(51, 15, 51);
+}
+.volador {
+  background-color: rgb(44, 100, 122);
+}

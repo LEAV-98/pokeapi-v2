@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(239, 241, 245);
+  font-family: "Raleway", sans-serif;
+}
+.container-app {
+  min-height: 100vh;
+}
+.card-pokemon {
+  background-color: rgb(240, 35, 35);
+  border-radius: 5rem;
+  border-color: black;
+}
+.card-pokemon .card-body h1,
+.card-pokemon .card-body h2 {
+  color: white;
+  font-weight: bold;
+}
+.container-stats {
+  width: 60%;
+  font-size: 1.2rem;
+  color: rgb(255, 255, 255);
+}
+.container-types > p:hover {
+  opacity: 70%;
+}
+.white {
+  color: #ffffff;
+  border-color: #ffffff;
+  font-weight: bold;
+}
